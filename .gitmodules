@@ -1,0 +1,3 @@
+[submodule "subrepo"]
+	path = subrepo
+	url = https://github.com/iskiselev/test_subrepo.git
